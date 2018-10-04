@@ -1,0 +1,7 @@
+ofxOpenCv
+ofxBiquadFilter
+ofxCenteredTrueTypeFont
+ofxCv
+ofxFaceTracker2
+ofxPoco
+ofxVideoRecorder-razvanilin
